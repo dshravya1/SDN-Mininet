@@ -1,1 +1,2 @@
-
+Built network topology using Mininet Python APIs and how to assign parameters like bandwidth and delay for different links in the topology.Performance testing of topology is done 
+using ping and iperf tools.
